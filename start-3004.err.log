@@ -1,0 +1,8 @@
+Error: @clerk/nextjs: Missing publishableKey. You can get your key at https://dashboard.clerk.com/last-active?path=api-keys.
+    at Object.throwMissingPublishableKeyError (D:\CS-Demo-Projects\workpilot-ai\.next\server\chunks\[root-of-the-server]__0uto6_7._.js:27:1499)
+    at i (D:\CS-Demo-Projects\workpilot-ai\.next\server\chunks\[root-of-the-server]__0uto6_7._.js:76:835)
+    at <unknown> (D:\CS-Demo-Projects\workpilot-ai\.next\server\chunks\[root-of-the-server]__0uto6_7._.js:76:872)
+Error: @clerk/nextjs: Missing publishableKey. You can get your key at https://dashboard.clerk.com/last-active?path=api-keys.
+    at Object.throwMissingPublishableKeyError (D:\CS-Demo-Projects\workpilot-ai\.next\server\chunks\[root-of-the-server]__0uto6_7._.js:27:1499)
+    at i (D:\CS-Demo-Projects\workpilot-ai\.next\server\chunks\[root-of-the-server]__0uto6_7._.js:76:835)
+    at <unknown> (D:\CS-Demo-Projects\workpilot-ai\.next\server\chunks\[root-of-the-server]__0uto6_7._.js:76:872)
