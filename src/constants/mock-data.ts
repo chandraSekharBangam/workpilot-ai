@@ -200,7 +200,7 @@ export const faqItems = [
 ];
 
 export const users: UserRecord[] = [
-  { id: "usr_01", name: "B Chandra Sekhar ", email: "avery@aiworkspace.dev", role: "Owner", status: "Active", usage: "86%" },
+  { id: "usr_01", name: "B Chandra Sekhar ", email: "chandrasekharbangam@gmail.com", role: "Owner", status: "Active", usage: "86%" },
   { id: "usr_02", name: "Mina Patel", email: "mina@aiworkspace.dev", role: "Admin", status: "Active", usage: "64%" },
   { id: "usr_03", name: "Jon Bell", email: "jon@aiworkspace.dev", role: "Member", status: "Invited", usage: "0%" },
   { id: "usr_04", name: "Sara Kim", email: "sara@aiworkspace.dev", role: "Member", status: "Active", usage: "42%" },

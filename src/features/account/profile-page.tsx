@@ -39,7 +39,7 @@ export function ProfilePage() {
             </div>
             <div className="space-y-2 sm:col-span-2">
               <Label htmlFor="email">Email</Label>
-              <Input id="email" defaultValue="avery@aiworkspace.dev" />
+              <Input id="email" defaultValue="chandrasekharbangam@gmail.com" />
             </div>
           </CardContent>
         </Card>
